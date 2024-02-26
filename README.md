@@ -17,3 +17,5 @@ Terminal:
 
 PHP:
 Falls nötig (DATABASE CONFIGURATION) in der toDoData.php anpassen
+
+![Vorschau](image.png)
